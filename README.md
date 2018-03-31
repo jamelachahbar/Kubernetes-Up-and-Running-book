@@ -6,11 +6,11 @@
 
 macのdocker cliのをEdgeバージョンにする。
 
-![screenshot](docs/images/docker001.png)
+![screenshot](docs/images/docker001.png = 250x250)
 
 enableにする
 
-![screenshot](docs/images/docker002.png)
+![screenshot](docs/images/docker002.png = 250x250)
 
 https://store.docker.com/editions/community/docker-ce-desktop-mac?tab=description
 
