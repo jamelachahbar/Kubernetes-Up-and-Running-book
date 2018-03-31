@@ -2,6 +2,19 @@
 
 ![screenshot](docs/images/screenshot.png)
 
+## Env
+
+macのdocker cliのをEdgeバージョンにする。
+
+![screenshot](docs/images/docker001.png)
+
+enableにする
+
+![screenshot](docs/images/docker002.png)
+
+https://store.docker.com/editions/community/docker-ce-desktop-mac?tab=description
+
+
 ### Running
 
 ```
